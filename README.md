@@ -1,4 +1,4 @@
-# Fruit Classifier (Banana vs. Strawberry)
+# Fruit Classifier (Banana or Strawberry)
 
 This is a simple fruit image classifier trained with **Google Teachable Machine**. It can predict whether an image shows a **banana** or a **strawberry**.
 
