@@ -31,4 +31,4 @@ This is a simple fruit image classifier trained with **Google Teachable Machine*
 - Install dependencies:
 
 ```bash
-pip install tensorflow==2.12.1 pillow numpy
+pip install tensorflow==2.12.1
